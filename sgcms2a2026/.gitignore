@@ -1,0 +1,9 @@
+# ignorar arquivos temporários
+*~
+
+# ignorar arquivos com extensão .class
+*.class
+
+# ignorar todos os arquivos no diretório build/
+build/
+/dist/
